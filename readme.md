@@ -10,7 +10,7 @@ Launch Page is a single page site that can be used to gather email addresses fro
 
 Clone this repo
 
-`git clone BLAH`
+`git clone git@github.com:davefp/landing_page.git`
 
 Rename `config.yml.example` to `config.yml`
 
@@ -29,4 +29,8 @@ Done!
 To change the page background, replace `public/images/background.jpg` with the image you want.
 
 Similarly, replace `public/images/logo.png with your logo.
+
+##Attribution
+
+Default background image "[Tilt Shift Balloon fake miniature (Shawnee, PA)](http://www.flickr.com/photos/27447826@N06/2558540327/in/photostream/)" © 2003 Nick Rossino, used under a Attribution-NonCommercial-ShareAlike 2.0 license: http://creativecommons.org/licenses/by-nc-sa/2.0/
 
