@@ -1,0 +1,16 @@
+<% if flash.has? :error %>
+<div data-alert class="alert-box alert">
+  <%= flash[:error] %>
+  <a href="#" class="close">&times;</a>
+</div>
+<% elsif flash.has? :success %>
+<div data-alert class="alert-box success">
+  <%= flash[:success] %>
+  <a href="#" class="close">&times;</a>
+</div>
+<% elsif flash.has? :message %>
+<div data-alert class="alert-box">
+  <%= flash[:message] %>
+  <a href="#" class="close">&times;</a>
+</div>
+<% end %>

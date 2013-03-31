@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <%= erb :head %>
+  </head>
+  <body>
+    <div class="row">
+      <div class="large-10 large-centered small-12 columns">
+          <a href="/"><div class="logo center"></div></a>
+        <div class="panel">
+          <h1><a href="/">Landing Page</a></h1>
+          <%= erb :flash %>
+          <%= yield %>
+          <%= erb :add_this %>
+        </div>
+      </div>
+    </div>
+    <%= erb :scripts %>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+config/config.yml
+public/stylesheets
+*.sass-cache
+.DS_STORE

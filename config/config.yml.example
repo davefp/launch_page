@@ -1,0 +1,21 @@
+# mailchimp
+mailchimp_api_key: 'API_KEY'
+mailchimp_list_id: 'LIST_ID'
+
+# addthis sharing
+share_url: 'http://example.com'
+twitter_text: "Check out Landing Page! {{url}}"
+
+# social
+twitter_username: 'TWITTER_USERNAME'
+facebook_page: 'http://facebook.com/FACEBOOK_PAGE'
+
+# page
+page_title: "Landing Page"
+
+# index
+product_blurb: "Here's where you tell everyone how fantastic your app is going to be. Make sure to mention all the killer features you have!"
+call_to_action: "Enter your email to sign up for our mailing list:"
+
+# thanks
+thanks: "Thanks! Please share this page with your friends."
