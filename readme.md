@@ -1,5 +1,9 @@
 #Launch Page
 
+![](example.png)
+
+##Description
+
 Launch Page is a single page site that can be used to gather email addresses from interested parties before your product launches.
 
 ##Features
